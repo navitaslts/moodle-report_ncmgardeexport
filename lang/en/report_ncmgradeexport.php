@@ -26,3 +26,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'NCM Grade Export';
+$string['reportlinkname'] = 'NCM Grade Export';
+$string['titlereport'] = 'NCM Grade Export';
